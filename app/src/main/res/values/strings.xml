@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FlightAssessment</string>
+    <string name="sort_by_price">Sort by price</string>
+    <string name="sort_by_departure">Sort by departure</string>
+    <string name="ok">OK</string>
+</resources>
